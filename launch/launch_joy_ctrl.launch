@@ -1,0 +1,4 @@
+<launch>
+    <node ns="/" name="joy_control" pkg="joy_ctrl" type="joy_ctrl_client.py" output="screen">
+    </node>
+</launch>
