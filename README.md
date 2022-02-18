@@ -5,5 +5,6 @@ An easy way to setup a joystick connection between the virtual machine with ROS 
 cd catkin_ws/src
 git clone https://github.com/petterhangerhagen/joy_ctrl.git
 chmod +x ~/catkin_ws/src/joy_ctrl/install_requirements.sh
+cd catkin_ws/src/joy_ctrl
 ./install_requirements.sh
 ```
