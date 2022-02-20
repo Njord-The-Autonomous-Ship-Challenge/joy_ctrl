@@ -1,5 +1,5 @@
 # joy_ctrl
-This is a way to use ROS to drive the Njordvessel with a joystick. The node is working on joy_node from the ROS enviroment. 
+This is a way to use ROS to navigate the Njordvessel with a joystick. The node is working on joy_node from the ROS enviroment. 
 
 ```
 cd catkin_ws/src
