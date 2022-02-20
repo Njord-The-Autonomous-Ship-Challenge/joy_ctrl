@@ -1,5 +1,5 @@
 # joy_ctrl
-An easy way to setup a joystick connection between the virtual machine with ROS and the host with Unity.
+This is a way to use ROS to drive the Njordvessel with a joystick. The node is working on joy_node from the ROS enviroment. 
 
 ```
 cd catkin_ws/src
